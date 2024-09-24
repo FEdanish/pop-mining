@@ -7,7 +7,7 @@
 
 ## Installation
 ```bash
-[ -f "hemixyz.sh" ] && rm hemixyz.sh; wget -q https://raw.githubusercontent.com/zunxbt/pop-mining/main/hemixyz.sh && chmod +x hemixyz.sh && ./hemixyz.sh
+[ -f "hemixyz.sh" ] && rm hemixyz.sh; wget -q https://raw.githubusercontent.com/FEdanish/pop-mining/main/hemixyz.sh && chmod +x hemixyz.sh && ./hemixyz.sh
 ```
 
 - **Copy all these details and save it somewhere**
